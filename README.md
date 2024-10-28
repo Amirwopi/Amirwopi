@@ -22,8 +22,7 @@
 </p>
 
 
-<details>
-  <summary>📈 GitHub Profile Stats</summary>
+
   <div>
     <h2 align="center">✨ Github Stats ✨</h2>
     <p align="center">
@@ -46,7 +45,6 @@
       </a>
     </p>
   </div>    
-</details>
 
 
 ## 🛠 Technologies and Tools I Use:
