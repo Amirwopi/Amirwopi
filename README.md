@@ -1,10 +1,9 @@
-<!-- شمارش بازدیدها -->
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/amirwopi/count.svg" alt="Visitor Count" />
 </p>
 
-<!-- پروفایل گیت‌هاب -->
-<details>
+
   <summary>📈 GitHub Profile Stats</summary>
   <div>
     <h2 align="center">✨ Github Stats ✨</h2>
@@ -20,7 +19,7 @@
       </a>
     </p>
   </div>    
-</details>
+
 
 ## 🛠 Technologies and Tools I Use:
 <p align="center">
