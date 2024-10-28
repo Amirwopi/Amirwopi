@@ -3,8 +3,6 @@
   <img src="https://profile-counter.glitch.me/amirwopi/count.svg" alt="Visitor Count" />
 </p>
 
-
-  <summary>📈 GitHub Profile Stats</summary>
   <div>
     <h2 align="center">✨ Github Stats ✨</h2>
     <p align="center">
