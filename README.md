@@ -34,13 +34,13 @@
   
   <p>
     <a href="https://github.com/amirwopi">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirwopi&langs_count=8&theme=gruvbox&layout=compact&hide_border=true" alt="Top Languages" />
+      <img src="https://statsmain-page.vercel.app/api/top-langs/?username=amirwopi&langs_count=8&theme=gruvbox&layout=compact&hide_border=true" alt="Top Languages" />
     </a>
   </p>
   
   <p>
     <a href="https://github.com/amirwopi">
-      <img src="https://github-readme-stats.vercel.app/api?username=amirwopi&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://statsmain-page.vercel.app/api?username=amirwopi&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/amirwopi">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirwopi&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
