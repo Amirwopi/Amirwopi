@@ -12,7 +12,7 @@
     <a href="https://github.com/amirwopi">
       <img src="https://img.shields.io/badge/GitHub-amirwopi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="YOUR_LINKEDIN_URL">
+    <a href="https://www.linkedin.com/in/amirwopi/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <img src="https://komarev.com/ghpvc/?username=amirwopi&style=for-the-badge&label=Profile%20Views" alt="Profile Views">
